@@ -5,11 +5,7 @@
 .navbar{
     background-color: black;
     border-bottom: 3px solid #931420;
-    width: 100%;
-    z-index: 1;
-    
-    top: 0;
-    
+    width: 100%; 
 }
 
 body{
