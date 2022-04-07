@@ -22,6 +22,10 @@ main{
     min-height: 100vh;
 
 }
+.card{
+	    text-align: center;
+
+}
 .card-body {
 	padding: .5em;
     margin: .5em;
