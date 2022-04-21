@@ -5,7 +5,9 @@
 .navbar{
     background-color: black;
     border-bottom: 3px solid #931420;
-    width: 100%; 
+    width: 100%;
+    top: 0;
+    
 }
 
 body{
@@ -22,9 +24,12 @@ main{
     min-height: 100vh;
 
 }
+.card-group
+{
+    padding: 1em;
+}
 .card{
-	    text-align: center;
-
+    text-align: center;
 }
 .card-body {
 	padding: .5em;
